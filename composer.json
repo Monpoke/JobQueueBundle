@@ -1,0 +1,14 @@
+{
+    "name": "monpoke/job-queue-bundle",
+    "description": "An other implementation of a scheduled job queue.",
+    "require": {
+        "symfony/symfony": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Bourgeois",
+            "email": "contact@pierrebourgeois.fr"
+        }
+    ]
+}
