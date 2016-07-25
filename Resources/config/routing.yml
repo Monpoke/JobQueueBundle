@@ -1,0 +1,3 @@
+monpoke_job_queue_homepage:
+    path:     /
+    defaults: { _controller: MonpokeJobQueueBundle:Default:index }
